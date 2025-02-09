@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    background-color:#98ED00;
+}
+footer{
+    background-color:#F30021 ;
+}
+main{
+    background-color:#7277D8 ;
+}
+header a{
+    margin-left:20px;
+    text-decoration: none;
+}
